@@ -1,0 +1,1 @@
+var json_Outletpoint_8 = {"type":"FeatureCollection","name":"Outletpoint_8","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"X_coord":"277776","Y_Coord":"9863367","Point":"Outlet"},"geometry":{"type":"Point","coordinates":[37.00372837012759,-1.238141063024731]}}]}
